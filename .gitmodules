@@ -1,6 +1,6 @@
 [submodule "Realm"]
-	path = Realm
-	url = https://github.com/mangos/Realm_DB
+  path = Realm
+  url = git@github.com:RagedUnicorn/mangos-submodule-realmddb.git
 [submodule "Translations"]
-	path = Translations
-	url = https://github.com/MangosExtras/MangosZero_Localised
+  path = Translations
+  url = git@github.com:RagedUnicorn/mangoszero-submodule-localised.git
